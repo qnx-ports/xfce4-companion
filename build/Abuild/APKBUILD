@@ -2,7 +2,7 @@
 # Maintainer: Aaron Bassett <abassett@qnx.com>
 pkgname=xfce4
 pkgver=4.21
-pkgrel=0
+pkgrel=${pkgrel:-0}
 pkgdesc="XFCE 4 meta package"
 url="https://xfce.org"
 arch="noarch"
